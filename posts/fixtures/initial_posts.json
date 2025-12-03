@@ -1,0 +1,112 @@
+[
+  {
+    "model": "posts.post",
+    "fields": {
+      "title": "Morning in the Hollow",
+      "content": "Woke up with the first sun rays. Stockpiled so many nuts yesterday — winter will be full and cozy!",
+      "author": "Squirrel Rusty",
+      "user_id": 1,
+      "published_at": "2025-11-20T07:30:00Z",
+      "updated_at": "2025-11-20T07:30:00Z"
+    }
+  },
+  {
+    "model": "posts.post",
+    "fields": {
+      "title": "Rain in the Woods",
+      "content": "It’s been pouring all day. Watching raindrops slide off the leaves from my hollow. Tomorrow will be great for mushrooms!",
+      "author": "Squirrel Rusty",
+      "user_id": 1,
+      "published_at": "2025-11-21T10:15:00Z",
+      "updated_at": "2025-11-21T10:15:00Z"
+    }
+  },
+  {
+    "model": "posts.post",
+    "fields": {
+      "title": "Close Call with a Fox",
+      "content": "Almost got caught by a fox today! But I’m quick — zipped up the oak in a flash. Gotta stay alert.",
+      "author": "Squirrel Rusty",
+      "user_id": 1,
+      "published_at": "2025-11-22T14:20:00Z",
+      "updated_at": "2025-11-22T14:20:00Z"
+    }
+  },
+  {
+    "model": "posts.post",
+    "fields": {
+      "title": "Mushroom Season Begins",
+      "content": "Found a huge porcini under a pine tree! Marked the spot — coming back tomorrow with my little satchel.",
+      "author": "Squirrel Rusty",
+      "user_id": 1,
+      "published_at": "2025-11-23T09:45:00Z",
+      "updated_at": "2025-11-23T09:45:00Z"
+    }
+  },
+  {
+    "model": "posts.post",
+    "fields": {
+      "title": "Winter Preparations",
+      "content": "Started hiding nuts all over the forest. Built 20 secret caches already! Safety in numbers.",
+      "author": "Squirrel Rusty",
+      "user_id": 1,
+      "published_at": "2025-11-24T11:00:00Z",
+      "updated_at": "2025-11-24T11:00:00Z"
+    }
+  },
+  {
+    "model": "posts.post",
+    "fields": {
+      "title": "Ice Glaze Morning",
+      "content": "The trees are coated in ice today. Slippery branches, but wow — the whole forest sparkles like crystal!",
+      "author": "Squirrel Rusty",
+      "user_id": 1,
+      "published_at": "2025-11-25T08:10:00Z",
+      "updated_at": "2025-11-25T08:10:00Z"
+    }
+  },
+  {
+    "model": "posts.post",
+    "fields": {
+      "title": "Helped a Little Neighbor",
+      "content": "A baby squirrel lost her mom. Helped her find a safe hollow and shared some hazelnuts. Her name is Masha.",
+      "author": "Squirrel Rusty",
+      "user_id": 1,
+      "published_at": "2025-11-26T13:30:00Z",
+      "updated_at": "2025-11-26T13:30:00Z"
+    }
+  },
+  {
+    "model": "posts.post",
+    "fields": {
+      "title": "Acorn Hunt Success",
+      "content": "Best acorn harvest in weeks! Found a hidden oak grove untouched by other foragers. My secret spot!",
+      "author": "Squirrel Rusty",
+      "user_id": 1,
+      "published_at": "2025-11-27T10:00:00Z",
+      "updated_at": "2025-11-27T10:00:00Z"
+    }
+  },
+  {
+    "model": "posts.post",
+    "fields": {
+      "title": "First Snowfall",
+      "content": "Snow blankets the forest. Quiet, soft, and peaceful. Time to stay warm inside and dream of spring buds.",
+      "author": "Squirrel Rusty",
+      "user_id": 1,
+      "published_at": "2025-11-28T07:50:00Z",
+      "updated_at": "2025-11-28T07:50:00Z"
+    }
+  },
+  {
+    "model": "posts.post",
+    "fields": {
+      "title": "Bird Friends Visit",
+      "content": "Chickadees came by today. Shared sunflower seeds from last summer’s stash. They chirped me a new forest song!",
+      "author": "Squirrel Rusty",
+      "user_id": 1,
+      "published_at": "2025-11-29T12:20:00Z",
+      "updated_at": "2025-11-29T12:20:00Z"
+    }
+  }
+]
