@@ -3,110 +3,120 @@
     "model": "posts.post",
     "fields": {
       "title": "Morning in the Hollow",
-      "content": "Woke up with the first sun rays. Stockpiled so many nuts yesterday — winter will be full and cozy!",
+      "content": "Woke up with the first sun rays. Stockpiled so many nuts yesterday — winter will be full and cozy! The birds started singing their morning songs, reminding me how peaceful forest life can be.",
       "author": "Squirrel Rusty",
       "user_id": 1,
       "published_at": "2025-11-20T07:30:00Z",
-      "updated_at": "2025-11-20T07:30:00Z"
+      "updated_at": "2025-11-20T07:30:00Z",
+      "category": "nature"
     }
   },
   {
     "model": "posts.post",
     "fields": {
       "title": "Rain in the Woods",
-      "content": "It’s been pouring all day. Watching raindrops slide off the leaves from my hollow. Tomorrow will be great for mushrooms!",
+      "content": "It's been pouring all day. Watching raindrops slide off the leaves from my hollow. Tomorrow will be great for mushrooms! The earthy smell fills the air and makes me nostalgic for spring mornings when everything feels fresh and new.",
       "author": "Squirrel Rusty",
       "user_id": 1,
       "published_at": "2025-11-21T10:15:00Z",
-      "updated_at": "2025-11-21T10:15:00Z"
+      "updated_at": "2025-11-21T10:15:00Z",
+      "category": "nature"
     }
   },
   {
     "model": "posts.post",
     "fields": {
       "title": "Close Call with a Fox",
-      "content": "Almost got caught by a fox today! But I’m quick — zipped up the oak in a flash. Gotta stay alert.",
+      "content": "Almost got caught by a fox today! But I'm quick — zipped up the oak in a flash. Gotta stay alert. My heart was pounding for hours afterward, but it's these moments that remind me to appreciate the safety of my treetop home.",
       "author": "Squirrel Rusty",
       "user_id": 1,
       "published_at": "2025-11-22T14:20:00Z",
-      "updated_at": "2025-11-22T14:20:00Z"
+      "updated_at": "2025-11-22T14:20:00Z",
+      "category": "adventure"
     }
   },
   {
     "model": "posts.post",
     "fields": {
       "title": "Mushroom Season Begins",
-      "content": "Found a huge porcini under a pine tree! Marked the spot — coming back tomorrow with my little satchel.",
+      "content": "Found a huge porcini under a pine tree! Marked the spot — coming back tomorrow with my little satchel. My grandmother taught me which mushrooms are safe to eat, and I'm grateful for her wisdom as I collect these forest treasures.",
       "author": "Squirrel Rusty",
       "user_id": 1,
       "published_at": "2025-11-23T09:45:00Z",
-      "updated_at": "2025-11-23T09:45:00Z"
+      "updated_at": "2025-11-23T09:45:00Z",
+      "category": "food"
     }
   },
   {
     "model": "posts.post",
     "fields": {
       "title": "Winter Preparations",
-      "content": "Started hiding nuts all over the forest. Built 20 secret caches already! Safety in numbers.",
+      "content": "Started hiding nuts all over the forest. Built 20 secret caches already! Safety in numbers. I've learned from past winters that it's better to have multiple hiding spots in case some get discovered by other hungry forest dwellers.",
       "author": "Squirrel Rusty",
       "user_id": 1,
       "published_at": "2025-11-24T11:00:00Z",
-      "updated_at": "2025-11-24T11:00:00Z"
+      "updated_at": "2025-11-24T11:00:00Z",
+      "category": "winter"
     }
   },
   {
     "model": "posts.post",
     "fields": {
       "title": "Ice Glaze Morning",
-      "content": "The trees are coated in ice today. Slippery branches, but wow — the whole forest sparkles like crystal!",
+      "content": "The trees are coated in ice today. Slippery branches, but wow — the whole forest sparkles like crystal! Even though it's dangerous to move around, I can't help but admire the breathtaking beauty of winter's artwork on every leaf and twig.",
       "author": "Squirrel Rusty",
       "user_id": 1,
       "published_at": "2025-11-25T08:10:00Z",
-      "updated_at": "2025-11-25T08:10:00Z"
+      "updated_at": "2025-11-25T08:10:00Z",
+      "category": "winter"
     }
   },
   {
     "model": "posts.post",
     "fields": {
       "title": "Helped a Little Neighbor",
-      "content": "A baby squirrel lost her mom. Helped her find a safe hollow and shared some hazelnuts. Her name is Masha.",
+      "content": "A baby squirrel lost her mom. Helped her find a safe hollow and shared some hazelnuts. Her name is Masha. Seeing her smile after such a frightening experience reminded me how important community is in the forest, especially during tough times.",
       "author": "Squirrel Rusty",
       "user_id": 1,
       "published_at": "2025-11-26T13:30:00Z",
-      "updated_at": "2025-11-26T13:30:00Z"
+      "updated_at": "2025-11-26T13:30:00Z",
+      "category": "friends"
     }
   },
   {
     "model": "posts.post",
     "fields": {
       "title": "Acorn Hunt Success",
-      "content": "Best acorn harvest in weeks! Found a hidden oak grove untouched by other foragers. My secret spot!",
+      "content": "Best acorn harvest in weeks! Found a hidden oak grove untouched by other foragers. My secret spot! The acorns here are especially plump and sweet, perfect for roasting by the hollow entrance on chilly evenings while watching the sunset.",
       "author": "Squirrel Rusty",
       "user_id": 1,
       "published_at": "2025-11-27T10:00:00Z",
-      "updated_at": "2025-11-27T10:00:00Z"
+      "updated_at": "2025-11-27T10:00:00Z",
+      "category": "food"
     }
   },
   {
     "model": "posts.post",
     "fields": {
       "title": "First Snowfall",
-      "content": "Snow blankets the forest. Quiet, soft, and peaceful. Time to stay warm inside and dream of spring buds.",
+      "content": "Snow blankets the forest. Quiet, soft, and peaceful. Time to stay warm inside and dream of spring buds. As I watch the snowflakes dance outside my window, I'm already planning my spring garden where I'll grow sunflowers and berries to share with friends.",
       "author": "Squirrel Rusty",
       "user_id": 1,
       "published_at": "2025-11-28T07:50:00Z",
-      "updated_at": "2025-11-28T07:50:00Z"
+      "updated_at": "2025-11-28T07:50:00Z",
+      "category": "winter"
     }
   },
   {
     "model": "posts.post",
     "fields": {
       "title": "Bird Friends Visit",
-      "content": "Chickadees came by today. Shared sunflower seeds from last summer’s stash. They chirped me a new forest song!",
+      "content": "Chickadees came by today. Shared sunflower seeds from last summer's stash. They chirped me a new forest song! Their cheerful melodies lifted my spirits, and I promised to save extra seeds for them during the upcoming cold weeks.",
       "author": "Squirrel Rusty",
       "user_id": 1,
       "published_at": "2025-11-29T12:20:00Z",
-      "updated_at": "2025-11-29T12:20:00Z"
+      "updated_at": "2025-11-29T12:20:00Z",
+      "category": "friends"
     }
   }
 ]

@@ -3,6 +3,17 @@ from django.utils import timezone
 
 
 class Post(models.Model):
+    CATEGORY_CHOICES = [
+        ('nature', 'Nature'),
+        ('adventure', 'Adventure'),
+        ('food', 'Food'),
+        ('friends', 'Friends'),
+        ('winter', 'Winter'),
+        ('spring', 'Spring'),
+        ('summer', 'Summer'),
+        ('autumn', 'Autumn'),
+    ]
+
     title = models.CharField(max_length=255)
     content = models.TextField()
     image_url = models.URLField(
@@ -13,6 +24,11 @@ class Post(models.Model):
     updated_at = models.DateTimeField()
     author = models.CharField(max_length=100, default="Squirrel Rusty")
     user_id = models.IntegerField(default=1)
+    category = models.CharField(
+        max_length=20,
+        choices=CATEGORY_CHOICES,
+        default='nature'
+    )
 
     def save(self, *args, **kwargs):
         if not self.pk:
